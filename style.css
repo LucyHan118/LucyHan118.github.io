@@ -65,3 +65,54 @@ section {
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 350px;
+  background-color: rgb(102, 102, 102);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  border-radius: 150px;
+  padding: 200.topx 1;
+
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 350px;
+  background-color: rgb(102, 102, 102);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  border-radius: 150px;
+  padding: 200.topx 1;
+
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 350px;
+  background-color: rgb(102, 102, 102);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  border-radius: 150px;
+  padding: 200.topx 1;
+
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
