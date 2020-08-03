@@ -77,3 +77,11 @@ section {
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+p{
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 1.2em;
+}
