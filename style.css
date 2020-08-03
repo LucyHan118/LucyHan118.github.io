@@ -44,9 +44,11 @@ section {
 }
 
 .tooltip {
-  position: absolute;
-  display: inline-block;
-  border-bottom: 1px solid black;
+  outline: none;
+  position: relative;
+  width: 70px;
+  min-width: 75px;
+  max-width: 300px;
 }
 
 .tooltip .tooltiptext {
@@ -60,6 +62,16 @@ section {
 
   position: absolute;
   z-index: 1;
+}
+
+.tooltip .tool-content {
+	margin: 300;
+	opacity: 0;
+	padding: 100;
+	position: absolute;
+	visibility: hidden;
+	height: 120%;
+	width: 120%;
 }
 
 .tooltip:hover .tooltiptext {
