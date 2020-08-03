@@ -78,6 +78,14 @@ section {
   visibility: visible;
 }
 
+figure{
+  width: 25%;
+  float: left;
+  margin-left: 38px;
+  text-align: center;
+  padding: 20px ;
+}
+
 p{
   margin-left: 200px;
   margin-right: 200px;
